@@ -1,0 +1,19 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ëÕšØøÿÿÿÿ8’ìÌì·/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ğø¬8î…ÿì·/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯ª¶œ8Ï¨ì·/
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Çµí‘8†Ã³ì·/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¦¤’U8èıì·/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(àßöüÿÿÿÿ8ÏÛ°ì·/
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(Æ÷€¿8«¥°ì·/
+i
+java:S1871."LThis branch's code block is the same as the block for the branch on line 44.(«±ÆŠ8ëèÛì·/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£ÍÚúùÿÿÿÿ8î…ÿì·/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶›ÿüÿÿÿÿ8ÒöÓì·/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÅèÀ‰ıÿÿÿÿ8Ö“§ì·/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°ûû–8èıì·/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(àßöüÿÿÿÿ8Ù¤ì·/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(÷Ñƒó8Ï¨ì·/
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(Õ´Õ8™¸±ì·/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(€şøæ8î…ÿì·/

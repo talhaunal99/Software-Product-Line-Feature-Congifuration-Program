@@ -133,6 +133,8 @@ public class Main {
             mobileApp.print();
         }
 
+        ProjectDevelopmentEnvironment vLab = new ProjectDevelopmentEnvironment();
+
         CoordinatorService coordinatorService = new CoordinatorService();
         coordinatorService.print();
         MarketandPolicyEngine marketandPolicyEngine = new MarketandPolicyEngine(coordinatorService);
@@ -149,6 +151,8 @@ public class Main {
             QueueModeler queueModeler = new QueueModeler(forecastService);
         }
 
+        VirtualLearningEnvironment vle = new VirtualLearningEnvironment();
+
         MemberTerminal memberTerminal = new MemberTerminal(terminal);
         PresidentTerminal presidentTerminal = new PresidentTerminal(terminal);
 
@@ -161,6 +165,7 @@ public class Main {
             System.out.println("Wrong Operation! MAGA or AGA must be selected.");
         }
 
+        ConferenceSystem conf = new ConferenceSystem();
 
     }
 }
